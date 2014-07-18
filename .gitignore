@@ -4,3 +4,6 @@ django-media-tree.komodoproject
 _thumbs
 *.pyc
 *.pyo
+.project
+.pydevproject
+.settings/
